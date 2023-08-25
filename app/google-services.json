@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "40967845156",
+    "project_id": "quizgamebetawi",
+    "storage_bucket": "quizgamebetawi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40967845156:android:22460e1352a26f8dd5efb1",
+        "android_client_info": {
+          "package_name": "com.niel24.quizgamebudayabetawi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZh27TLYojztZuP3a4PB_jbYdklw-JWto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
